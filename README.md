@@ -1,5 +1,4 @@
 # Stegnography_project
-Stegnography project using C
 
 # 🖼️ LSB Image Steganography using C
 
