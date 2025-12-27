@@ -1,5 +1,3 @@
-# Stegnography_project
-
 # 🖼️ LSB Image Steganography using C
 
 🔐 *Hiding information in plain sight.*
